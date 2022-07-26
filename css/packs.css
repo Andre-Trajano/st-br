@@ -1,0 +1,15 @@
+.trab__div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 3rem 0;
+}
+
+#sobre__div_tituloo {
+    top: 2rem;
+    margin-bottom: 4rem;
+}
+
+.texto__pequeno {
+    font-size: 1.2rem;
+}
